@@ -1,11 +1,12 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"C1,C3,C4,C5","4","100µF","","","","Capacitor_SMD:C_0402_1005Metric",""
-"C2,C6,C7","3","10µF","","","","Capacitor_SMD:C_0402_1005Metric",""
-"J1","1","USB_C_Receptacle_USB2.0_14P","","","","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-"L1","1","15µH","","","","Inductor_SMD:L_6.3x6.3_H3",""
-"R1,R2","2","5.1K ohm","","","","Resistor_SMD:R_0201_0603Metric",""
-"R3,R4","2","10kΩ","","","","Resistor_SMD:R_0402_1005Metric",""
-"SW1,SW2","2","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB",""
-"U1","1","ESP32-S3-WROOM-1","","","","RF_Module:ESP32-S3-WROOM-1","https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf"
-"U2","1","AMS1117-3.3","","","","Package_TO_SOT_SMD:SOT-223-3_TabPin2","http://www.advanced-monolithic.com/pdf/ds1117.pdf"
-"U3","1","SX1262IMLTRT","","","","footprints:QFN50P400X400X100-25N",""
+Reference,Qty,Value,DNP,Links,Price in uSD,Footprint,Datasheet
+"C1,C3,C4,C5",4,100µF,,https://www.kondik.cz/cc0402krx7r7bb104-kondenzator-keramicky-smd-0402-100nf-16v/,0.02,Capacitor_SMD:C_0402_1005Metric,
+"C2,C6,C7",3,10µF,,https://www.kondik.cz/cc0402krx7r7bb104-kondenzator-keramicky-smd-0402-100nf-16v/,0.1,Capacitor_SMD:C_0402_1005Metric,
+J1,1,USB_C_Receptacle_USB2.0_14P,,https://www.lcsc.com/product-detail/USB-Type-C_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html,0.15,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+L1,1,15µH,,https://jlcpcb.com/parts/1st/Inductors_Coils_Chokes_3,0.18,Inductor_SMD:L_6.3x6.3_H3,
+"R1,R2",2,5.1K ohm,,https://www.digikey.com/en/products/filter/resistor-kits/129,0.02,Resistor_SMD:R_0201_0603Metric,
+"R3,R4",2,10kΩ,,https://www.digikey.com/en/products/filter/resistor-kits/129,0.02,Resistor_SMD:R_0402_1005Metric,
+"SW1,SW2",2,SW_Push,,https://www.lcsc.com/product-detail/C115357.html?s_z=n_q_Alps%2520SKRK&spm=wm.fly.bg.0.xh&lcsc_vid=T1NfUFBWE1RZUVQHFgNdAgVQEVYIVFBfEwReAwYCQFgxVlNeR1JZU1BTTlRZXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,0.1,Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB,
+U1,1,ESP32-S3-WROOM-1,,https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-S3-WROOM-1-N8?qs=Wj%2FVkw3K%252BMC1mq0KGPvoSQ%3D%3D&srsltid=AfmBOop5krupgYPdFVUGxTL8-yUUkTsHTSYIniKtGM8TToN1zZpoB5K_,5.72,RF_Module:ESP32-S3-WROOM-1,https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+U2,1,AMS1117-3.3,,https://www.digikey.co.uk/en/products/detail/umw/AMS1117-3-3/17635254?srsltid=AfmBOooZfdHrSwc6lBW4hHe6LDcUe7eGXl9CIYftTb-ptN1qKPl-CM69,0.27,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf
+U3,1,SX1262IMLTRT,,https://www.mouser.co.uk/ProductDetail/Semtech/SX1262IMLTRT?qs=XFmntM7Yc9eYt6yxTPughQ%3D%3D&srsltid=AfmBOop1vxsh-Uvg7z4bRCZ2cXZbmydLtCxp8FCvj9yZCBbB6KDxJeo0,8.63,footprints:QFN50P400X400X100-25N,
+,,,,total in USD:,15.21,,
