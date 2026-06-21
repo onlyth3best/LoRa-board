@@ -1,3 +1,4 @@
+
 # LoRa-board
 built with help from stasis.hackclub.com…
 <br/>
@@ -9,7 +10,7 @@ LoRa stands for 'Long Range', usually to transmit things like with radio. This p
 - a U.FL antenna
 <img width="1234" height="1162" alt="Untitled design (19)" src="https://github.com/user-attachments/assets/3b7f76b0-16ef-444d-bd8a-0f93d3585e02" />
 
-<img width="604" height="603" alt="Snímek obrazovky 2026-06-21 v 12 30 05" src="https://github.com/user-attachments/assets/ef9790d5-ade1-49dd-a9b6-4ebb1838f993" />
+<img width="464" height="528" alt="Snímek obrazovky 2026-06-21 v 12 44 18" src="https://github.com/user-attachments/assets/02216e6a-40b0-4f6a-b1ed-ae8b026a6d4c" />
 
 <img width="794" height="550" alt="Snímek obrazovky 2026-06-21 v 2 35 26" src="https://github.com/user-attachments/assets/e18c8101-ccc4-410c-84e2-06640d92100d" />
 [lorarpdff.pdf](https://github.com/user-attachments/files/29169228/lorarpdff.pdf)
